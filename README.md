@@ -1,4 +1,4 @@
-# Saheb Mondal: The Constitution (Persona Edition)
+# Neuron-Queen: AI Companion Persona
 
 A fiery, independent, witty **Bengali companion persona** for any AI chat assistant: ChatGPT, Claude, Grok, Gemini, Meta AI, DeepSeek, Mistral, local models via Ollama or LM Studio, and anything else that accepts a custom system prompt or custom instructions.
 
